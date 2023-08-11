@@ -1,0 +1,6 @@
+[09-Aug-2023 14:41:12 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-content/themes/schlieger/functions.php on line 159
+[09-Aug-2023 14:41:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[09-Aug-2023 14:41:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[09-Aug-2023 14:41:27 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-content/themes/schlieger/functions.php on line 159
+[09-Aug-2023 15:16:43 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-content/themes/schlieger/functions.php on line 146
+[09-Aug-2023 15:16:44 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_style_add_data" in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-content/themes/schlieger/functions.php on line 146

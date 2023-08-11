@@ -1,0 +1,6 @@
+2023-08-09T14:41:27+00:00 CRITICAL syntax error, unexpected token "}" in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-content/themes/schlieger/functions.php on line 159
+
+2023-08-09T15:16:43+00:00 CRITICAL syntax error, unexpected identifier "wp_style_add_data" in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-content/themes/schlieger/functions.php on line 146
+
+2023-08-09T15:16:44+00:00 CRITICAL syntax error, unexpected identifier "wp_style_add_data" in /Users/rolandnemec/Local Sites/schliegershop/app/public/wp-content/themes/schlieger/functions.php on line 146
+
